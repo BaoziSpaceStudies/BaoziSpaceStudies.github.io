@@ -1,16 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![包子太空国际问题研究]]
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+“人们通过政治去研究坏世界，而通过道德去想象好世界。”外层空间是人类文明生存和发展最新和最终的疆域。六十余年来，外层空间在整体上充斥着国家间竞争的同时又在细节处体现着与地球空间迥异的国家间合作的希望。外层空间国际关系到底是走向合作，还是走向竞争乃至冲突，事关国家间政治实践及其背后的理论发展，更事关人类文明的未来。六载求学于国际问题研究的宏伟宫殿，曾无数次自问：应如何理解错综复杂的国际关系、如何解释国家间的竞争、冲突与合作？国际政治又何以少些战争与冲突、多些和平与合作？正是学术向善的信仰使我走上外层空间国际问题研究的道路。学无止境，研无穷期，我发愿：希望外层空间国际问题研究贯穿我整个学术和职业生涯，成为我毕生攀登的天路。做心系祖国，关怀世界的外层空间国际问题研究者！
+
 
 #### Email
-sli[at]cumt.edu.cn
+gaosicheng2023[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2021-2023 北京大学中国学（政治与国际关系）专业（硕士）
+2017-2021 北京外国语大学法语+国际关系专业（本科）
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+外空国际战略、太空全球治理、航天国际合作（国际政治领域）
+外层空间法、中国航天法（国际法与国内法领域）
+空间交通管理、载人航天、深空探测、行星防御、行星保护、太空资源等（科学与工程专业领域）
+
 

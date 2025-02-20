@@ -1,12 +1,17 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+1、学术论文
+[1]	《新规则、再登月——美国<阿尔忒弥斯协定>：动因与评估》，载2022年《博望天下》第一辑
+[2]	《地月空间全球治理规则框架构成要素研究》，载《航天器工程》，2024年第2期
+[3]	《外层空间全球治理与外层空间领域人类命运共同体构建》，载《桂林航天工业学院学报》，2024年第6期
+[4]	《巨型星座背景下国际空间交通信息共享与协调规则及机制分析》，载《中国航天》2024年第8期
+[5]《双向赋能——区域国别学视角下的外层空间国际战略研究》，载《天津大学学报（社会科学版）》2025年第1期
+2、会议论文
+[1]	《Global governance of lunar exploration in a new era: a recommended framework》，75th IAC（第75界国际宇航大会），2024年10月；
+[2]	《在外层空间领域构建人类命运共同体——内涵与意义》，2023中国航天大会，2023年4月；
+[3]	《载人月球探测中的月面人员安全保障国际规则现状与趋势研究》，第六届载人航天学术大会，2023年11月。
+3、主要学术评论
+[1]	印度航天全面推进，雄心与挑战并存，载《中国航天报》2023年6月24日第一版；
+[2]	美国《阿尔忒弥斯协议》定义太空新秩序，澎湃《再看世界》电子刊，2021年11月；
+[3]	美西方太空军事同盟雏形已见，《燕南66战略务虚》第163期，2022年3月；
+[4]	俄乌冲突背景下美西方太空军事同盟动态分析，澎湃《再看世界》电子刊，2022年6月；
+[5]	安全来自韧性，韧性来自数量：美国太空战略的最新关键词，澎湃新闻，2022年3月。
 
